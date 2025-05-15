@@ -2,10 +2,13 @@
 
 ## About Me
 
-- 🌱 I'm currently learning Backend Design and DevOps
-- 💬 Ask me about Machine Learning, Tensorflow and Backend
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: Life is like an electron! (Think Why?)
+- 🤖 AI/ML engineer at IIIT Gwalior working on LLMs and diverse ML architectures
+- 📚 Love reading research papers and exploring cutting-edge AI advancements
+- 🌱 Currently learning Backend System Design and DevOps to build scalable AI systems
+- 💬 Ask me about PyTorch, PyTorch Geometric, FastAPI, and Node.js
+- 📫 How to reach me: [ronitk964@example.com](mailto:ronitk964@example.com)
+- ⚡ Fun fact: Life is like an electron — full of potential and always moving! (Think why?)
+
 
 ## Connect with me:
 <a href="https://linkedin.com/in/yourprofile"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -38,19 +41,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-## Support:
-<a href="https://www.buymeacoffee.com/yourname"><img align="left" alt="Buy Me A Coffee" height="50px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a>
-
 <br />
 <br />
 <br />
 
 ## GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronit-Raj9&show_icons=true&theme=radical)
 
 ## Contributions:
 
 <p>
-  <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+  <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-Raj9&theme=radical" alt="Streak Stats" />
 </p>
