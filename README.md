@@ -25,7 +25,7 @@
   <a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://pytorch-geometric.readthedocs.io/en/latest/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg" alt="pytorch-geometric" width="40" height="40" style="object-fit: contain;"/>
+  <img src="https://pytorch-geometric.readthedocs.io/en/latest/_images/logo_text.png" alt="pytorch-geometric" width="120" height="40"/>
 </a>
 
   <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-plain.svg" alt="prisma" width="40" height="40"/></a>
