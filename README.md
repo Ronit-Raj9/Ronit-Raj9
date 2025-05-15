@@ -24,7 +24,9 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://pytorch-geometric.readthedocs.io/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg" alt="pytorch-geometric" width="40" height="40"/></a>
+<a href="https://pytorch-geometric.readthedocs.io/en/latest/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg" alt="pytorch-geometric" height="40" style="object-fit: contain;"/>
+</a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-plain.svg" alt="prisma" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/></a>
