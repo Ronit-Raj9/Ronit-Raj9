@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40" style="object-fit: contain;" />
 </a>
 <a href="https://prisma.io">
-  <img width="122" height="20" src="http://made-with.prisma.io/dark.svg" alt="Made with Prisma" />
+  <img width="122" height="20" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Preview-Prisma-DarkLogo.png" alt="Made with Prisma" />
 </a>  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/></a>
   <a href="https://mongoosejs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoose" width="40" height="40"/></a>
