@@ -1,60 +1,56 @@
-# Hi there, I'm [Your Name] 👋
+# 👋 Hello, I'm Raj
 
-<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="developer" width="250"/>
+## About Me
 
-I'm a **[Your Role/Title]**, passionate about **AI 🔬 | Backend 🧩 | Open Source 💻**.  
-Currently building [Your Startup/Project] 🚀 and contributing to meaningful projects.
+- 🌱 I'm currently learning Backend Design and DevOps
+- 💬 Ask me about Machine Learning, Tensorflow and Backend
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: Life is like an electron! (Think Why?)
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m learning **[Tech Stack, Framework, or Field]**
-- 🤝 I’m open to collaborating on **AI research, LLM tools, OSS infra**
-- 🧠 Interests: **[List: LLMs, GNNs, Diffusion, Agents, etc.]**
-- 📫 How to reach me: [Email, Discord, LinkedIn]
+## Connect with me:
+<a href="https://linkedin.com/in/yourprofile"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/yourprofile"><img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
----
+<br />
+<br />
 
-## 🧰 Tech Stack
+## Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
 
----
+## Support:
+<a href="https://www.buymeacoffee.com/yourname"><img align="left" alt="Buy Me A Coffee" height="50px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a>
 
-## 📊 GitHub Stats
+<br />
+<br />
+<br />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=radical"/>
-</div>
+## GitHub Stats:
 
----
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🚀 Projects
+## Contributions:
 
-Here are some projects I'm proud of:
-
-- 🎓 [**ZENTORO**](https://github.com/yourname/zentoro): AI-powered startup ecosystem platform  
-- 📚 [**Rescroll**](https://github.com/yourname/rescroll): Swipeable AI Research Paper News App  
-- 📈 [**GitHub Insights**](https://github.com/yourname/github-insights): GitHub profile stats and RAG-based summary
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
----
-
-<!-- Optional: GitHub streaks or trophies -->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
----
+<p>
+  <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+</p>
