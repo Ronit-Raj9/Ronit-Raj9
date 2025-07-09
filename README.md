@@ -6,7 +6,7 @@
 - 📚 Love reading research papers and exploring cutting-edge AI advancements
 - 🌱 Currently learning Backend System Design and DevOps to build scalable AI systems
 - 💬 Ask me about PyTorch, PyTorch Geometric, FastAPI, and Node.js
-- 📫 How to reach me: [ronitk964@example.com](mailto:ronitk964@example.com)
+- 📫 How to reach me: [ronitk964@example.com](mailto:ronitk964@gmail.com)
 - ⚡ Fun fact: Life is like an electron — full of potential and always moving! (Think why?)
 
 
