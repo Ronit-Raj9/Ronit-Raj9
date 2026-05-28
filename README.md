@@ -38,15 +38,6 @@
 **Data** — PostgreSQL · MongoDB · Redis · Qdrant · pgvector · Prisma
 **Infra** — Docker · Solidity · Git/CI
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ronit-Raj9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Raj9&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs" />
-
-</div>
-
 ---
 
 <div align="center">
