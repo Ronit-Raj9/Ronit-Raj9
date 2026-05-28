@@ -2,7 +2,9 @@
 
 # Ronit Raj
 
-**Full-Stack AI & ML Engineer** — I build production AI end-to-end.
+**Full-Stack AI & ML Engineer · Open Source Maintainer**
+
+I build production AI end-to-end — and maintain a Linux Foundation (LFDT) project.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-roniii.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://roniii.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronitrajai/)
@@ -13,8 +15,8 @@
 
 ---
 
-- 🔧 Maintainer of **[GitMesh](https://github.com/LF-Decentralized-Trust-labs/gitmesh)** — a Linux Foundation (LFDT) AI-agent governance project
-- 🏆 **9× Hackathon Wins** · **SIH 2024 Winner** · **NHA × IISc PM-JAY Runner-Up** · **OSS India 2026 Speaker**
+- 🌱 **Open source first** — maintainer of **[GitMesh](https://github.com/LF-Decentralized-Trust-labs/gitmesh)** (Linux Foundation / LFDT AI-agent governance) · contributor to CNCF **KubeEdge/Ianvs** · **OSS Summit India 2026** speaker
+- 🏆 **9× Hackathon Wins** · **SIH 2024 Winner** · **NHA × IISc PM-JAY Runner-Up**
 - 🤖 Focus: **LLM fine-tuning (GRPO/LoRA) · RAG · AI infra & serving · full-stack AI apps**
 - 🎓 B.Tech, Mathematics & Scientific Computing — IIIT Gwalior
 
